@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 41c9a261fd6f5aa4987502a06cf60553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5349548665134566540
+    second: kickngoal_0
+  - first:
+      213: 5426673095527883067
+    second: kickngoal_1
+  - first:
+      213: -1017067640233355893
+    second: kickngoal_2
+  - first:
+      213: -5719847213701498663
+    second: kickngoal_3
+  - first:
+      213: -4839335339184943235
+    second: kickngoal_4
+  - first:
+      213: -3297628544466457134
+    second: kickngoal_5
+  - first:
+      213: -5920741577577334977
+    second: kickngoal_6
+  - first:
+      213: -8391880035761802915
+    second: kickngoal_7
+  - first:
+      213: -120819085287140407
+    second: kickngoal_8
+  - first:
+      213: -301658395531953069
+    second: kickngoal_9
+  - first:
+      213: 8402630857359414088
+    second: kickngoal_10
+  - first:
+      213: -3310198109197254872
+    second: kickngoal_11
+  - first:
+      213: 6701118001683035017
+    second: kickngoal_12
+  - first:
+      213: -2254347341020630485
+    second: kickngoal_13
+  - first:
+      213: -7043309178915029399
+    second: kickngoal_14
+  - first:
+      213: -6965318542320541206
+    second: kickngoal_15
+  - first:
+      213: -8456555589031524577
+    second: kickngoal_16
+  - first:
+      213: 3385687835184011598
+    second: kickngoal_17
+  - first:
+      213: -1261105367385423833
+    second: kickngoal_18
+  - first:
+      213: -4166656559828990968
+    second: kickngoal_19
+  - first:
+      213: 5459494619813917527
+    second: kickngoal_20
+  - first:
+      213: -4691240282884582428
+    second: kickngoal_21
+  - first:
+      213: 8175961272538007470
+    second: kickngoal_22
+  - first:
+      213: -6795173453025654413
+    second: kickngoal_23
+  - first:
+      213: 7423868407953585615
+    second: kickngoal_24
+  - first:
+      213: -1356310161596442551
+    second: kickngoal_25
+  - first:
+      213: 5267204238074615234
+    second: kickngoal_26
+  - first:
+      213: 3928709399978820713
+    second: kickngoal_27
+  - first:
+      213: -9146122473662662650
+    second: kickngoal_28
+  - first:
+      213: 2057826348252259823
+    second: kickngoal_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kickngoal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 527
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc206fa2a6d3a40800000000000000
+      internalID: 5349548665134566540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 797
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31eb1bbd6a6f4b40800000000000000
+      internalID: 5426673095527883067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 859
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85985fae56a2e1f0800000000000000
+      internalID: -1017067640233355893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 679
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d870d1a3450f90b0800000000000000
+      internalID: -5719847213701498663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 425
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f03ee162a37dcb0800000000000000
+      internalID: -4839335339184943235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 745
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd63e57f487c32d0800000000000000
+      internalID: -3297628544466457134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fd9597ec45dda0800000000000000
+      internalID: -5920741577577334977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 799
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b9bec19d0a8b80800000000000000
+      internalID: -8391880035761802915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35f5b9ea3c25ef0800000000000000
+      internalID: -120819085287140407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 554
+        width: 181
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbdca994b40dbf0800000000000000
+      internalID: -301658395531953069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 551
+        width: 81
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d4a7ee342c9470800000000000000
+      internalID: 8402630857359414088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb02d9b50df02d0800000000000000
+      internalID: -3310198109197254872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 743
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983fa4881572ffc50800000000000000
+      internalID: 6701118001683035017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 599
+        width: 112
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227e129903f6b0e0800000000000000
+      internalID: -2254347341020630485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e758b6e93214e90800000000000000
+      internalID: -7043309178915029399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 504
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ea8980b7365f90800000000000000
+      internalID: -6965318542320541206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_16
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f178e6c1f7744aa80800000000000000
+      internalID: -8456555589031524577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_17
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491180e5216cfe20800000000000000
+      internalID: 3385687835184011598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 501
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72047a89957af7ee0800000000000000
+      internalID: -1261105367385423833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 504
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804875a4fef0d26c0800000000000000
+      internalID: -4166656559828990968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533a2b5e6504cb40800000000000000
+      internalID: 5459494619813917527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 253
+        width: 226
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e359a661dd55eeb0800000000000000
+      internalID: -4691240282884582428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 196
+        width: 183
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea78af29579d67170800000000000000
+      internalID: 8175961272538007470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 263
+        width: 370
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379cd313fb1b2b1a0800000000000000
+      internalID: -6795173453025654413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_24
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 465
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57153dbf0e60760800000000000000
+      internalID: 7423868407953585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489ac4181b6d2de0800000000000000
+      internalID: -1356310161596442551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c59ed1095ed81940800000000000000
+      internalID: 5267204238074615234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 249
+        width: 156
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c9735264958630800000000000000
+      internalID: 3928709399978820713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_28
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 423
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608be158112721180800000000000000
+      internalID: -9146122473662662650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickngoal_29
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e301392ede8c10800000000000000
+      internalID: 2057826348252259823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kickngoal_0: 5349548665134566540
+      kickngoal_1: 5426673095527883067
+      kickngoal_10: 8402630857359414088
+      kickngoal_11: -3310198109197254872
+      kickngoal_12: 6701118001683035017
+      kickngoal_13: -2254347341020630485
+      kickngoal_14: -7043309178915029399
+      kickngoal_15: -6965318542320541206
+      kickngoal_16: -8456555589031524577
+      kickngoal_17: 3385687835184011598
+      kickngoal_18: -1261105367385423833
+      kickngoal_19: -4166656559828990968
+      kickngoal_2: -1017067640233355893
+      kickngoal_20: 5459494619813917527
+      kickngoal_21: -4691240282884582428
+      kickngoal_22: 8175961272538007470
+      kickngoal_23: -6795173453025654413
+      kickngoal_24: 7423868407953585615
+      kickngoal_25: -1356310161596442551
+      kickngoal_26: 5267204238074615234
+      kickngoal_27: 3928709399978820713
+      kickngoal_28: -9146122473662662650
+      kickngoal_29: 2057826348252259823
+      kickngoal_3: -5719847213701498663
+      kickngoal_4: -4839335339184943235
+      kickngoal_5: -3297628544466457134
+      kickngoal_6: -5920741577577334977
+      kickngoal_7: -8391880035761802915
+      kickngoal_8: -120819085287140407
+      kickngoal_9: -301658395531953069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,15 +5,15 @@ using UnityEngine.SceneManagement;
 public class UIButtonController : MonoBehaviour
 {
     public Button startButton, pauseButton, settingsButton, aboutButton, rulesButton, exitButton;
-    public GameObject settingsPanel, aboutPanel, rulesPanel;
+    //public GameObject settingsPanel, aboutPanel, rulesPanel;
 
     private void Start()
     {
         startButton.onClick.AddListener(StartGame);
         pauseButton.onClick.AddListener(PauseGame);
-        settingsButton.onClick.AddListener(ToggleSettings);
-        aboutButton.onClick.AddListener(ToggleAbout);
-        rulesButton.onClick.AddListener(ToggleRules);
+        //settingsButton.onClick.AddListener(ToggleSettings);
+        //aboutButton.onClick.AddListener(ToggleAbout);
+        //rulesButton.onClick.AddListener(ToggleRules);
         exitButton.onClick.AddListener(ExitGame);
     }
 
@@ -26,7 +26,7 @@ public class UIButtonController : MonoBehaviour
     {
         Time.timeScale = Time.timeScale == 1 ? 0 : 1;
     }
-
+    /*
     void ToggleSettings()
     {
         settingsPanel.SetActive(!settingsPanel.activeSelf);
@@ -41,7 +41,7 @@ public class UIButtonController : MonoBehaviour
     {
         rulesPanel.SetActive(!rulesPanel.activeSelf);
     }
-
+    */
     void ExitGame()
     {
         Application.Quit();
