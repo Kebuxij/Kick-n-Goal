@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class UIButtonController : MonoBehaviour
 {
-    public Button startButton, pauseButton, settingsButton, aboutButton, rulesButton;
+    public Button startButton, pauseButton, settingsButton, aboutButton, rulesButton, exitButton;
     public GameObject settingsPanel, aboutPanel, rulesPanel;
 
     private void Start()
@@ -14,11 +14,12 @@ public class UIButtonController : MonoBehaviour
         settingsButton.onClick.AddListener(ToggleSettings);
         aboutButton.onClick.AddListener(ToggleAbout);
         rulesButton.onClick.AddListener(ToggleRules);
+        exitButton.onClick.AddListener(ExitGame);
     }
 
     void StartGame()
     {
-        SceneManager.LoadScene("Menu"); // Change to your actual game scene
+        SceneManager.LoadScene("SampleScene"); // Change to your actual game scene
     }
 
     void PauseGame()
@@ -39,5 +40,15 @@ public class UIButtonController : MonoBehaviour
     void ToggleRules()
     {
         rulesPanel.SetActive(!rulesPanel.activeSelf);
+    }
+
+    void ExitGame()
+    {
+        Application.Quit();
+
+
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 }
