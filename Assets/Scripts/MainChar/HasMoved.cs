@@ -2,11 +2,14 @@
 
 public class HasMoved : MonoBehaviour
 {
+    [SerializeField] private AudioClip startMovingAudio;
+
     private Vector3 initialPosition;
     private bool isMouseHeld = false;
     protected PlayerSelectionOne _plSelectionOne;
     protected PlayerSelectionTwo _plSelectionTwo;
     protected StopDetection _stopDetection;
+    private AudioSource _audioSource;
 
     void Start()
     {
@@ -15,6 +18,8 @@ public class HasMoved : MonoBehaviour
 
         _plSelectionOne = GetComponent<PlayerSelectionOne>();
         _plSelectionTwo = GetComponent<PlayerSelectionTwo>();
+
+        _audioSource = GetComponent<AudioSource>();
 
         //Debug.LogWarning("initialPosition = " + initialPosition);
         //Debug.LogWarning("transform.position = " + transform.position);
@@ -33,6 +38,9 @@ public class HasMoved : MonoBehaviour
         {
             if (initialPosition != transform.position)
             {
+                _audioSource.clip = startMovingAudio;
+                _audioSource.Play();
+
                 _stopDetection = GetComponent<StopDetection>();
                 Debug.LogWarning("Я есть сработать!");
 
