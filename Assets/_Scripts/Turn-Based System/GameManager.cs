@@ -137,6 +137,15 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        if (_goalOne == 5)
+        {
+            ChangeState(GameState.Victory);
+        }
+        if (_goalTwo == 5)
+        {
+            ChangeState(GameState.Defeat);
+        }
+
         if (dRoll.isCompleted == true)
         {
             if (checkSide.SideNumber != 0)
